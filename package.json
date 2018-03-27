@@ -49,7 +49,7 @@
     "lodash.camelcase": "^4.3.0",
     "lodash.forown": "^4.4.0",
     "lodash.reduce": "^4.6.0",
-    "xml2js": "^0.4.19"
+    "react-native-xml2js": "^1.0.3"
   },
   "jest": {
     "setupFiles": [
