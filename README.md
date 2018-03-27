@@ -1,4 +1,8 @@
-# node-roku-client
+# react-native-roku-client
+
+This is a fork of [https://github.com/bschlenk/node-roku-client](node-roku-client) modified to work in a JS only react-native environment. The main difference is that this library doesn't support discovery of roku devices on the network. Yes, this makes it essentially useless. This requires knowing the ip of the roku.
+
+If you are looking for a react-native version that **does** support discovery, you should look for another library.
 
 [![npm version](https://badge.fury.io/js/roku-client.svg)](https://badge.fury.io/js/roku-client)
 
